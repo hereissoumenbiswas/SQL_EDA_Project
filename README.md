@@ -8,7 +8,7 @@ The data sits in a `gold` schema with three tables:
 | Table | What it holds | Columns used in this project |
 |---|---|---|
 | `gold.customers` | One row per customer | `customer_key`, `customer_id`, `customer_number`, `first_name`, `last_name`, `country`, `marital_status`, `gender`, `birthdate`, `create_date`|
-| `gold.products` | One row per product | `product_key`, `product_id`, `product_name`, `category`, `subcategory`, `product_line`, `cost` |
+| `gold.products` | One row per product | `product_key`, `product_id`, `product_number`, `product_name`, `category`, `subcategory`, `product_line`, `cost` |
 | `gold.sales` | One row per order line | `order_number`, `customer_key`, `product_key`, `order_date`, `shipping_date`, `quantity`, `price`, `sales_amount` |
 
 How they connect:

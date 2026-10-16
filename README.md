@@ -10,3 +10,8 @@ The data sits in a `gold` schema with three tables:
 | `gold.customers` | One row per customer | `customer_key`, `customer_id`, `first_name`, `last_name`, `country`, `gender`, `marital_status`, `birthdate` |
 | `gold.products` | One row per product | `product_key`, `product_id`, `product_name`, `category`, `subcategory`, `product_line`, `cost` |
 | `gold.sales` | One row per order line | `order_number`, `customer_key`, `product_key`, `order_date`, `shipping_date`, `quantity`, `price`, `sales_amount` |
+
+How they connect:
+
+- `gold.sales.customer_key` → `gold.customers.customer_key`
+- `gold.sales.product_key` → `gold.products.product_key`

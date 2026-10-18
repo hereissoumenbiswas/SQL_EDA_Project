@@ -1,5 +1,12 @@
-# SQL_EDA_Project
-This project focuses on exploring and analyzing sales, customer, and product data using PostgreSQL. It aims to identify trends, discover patterns, evaluate product performance, and generate meaningful business insights through SQL queries.
+# SQL EDA Project
+
+**Sales Analytics (PostgreSQL)**
+
+## Project Overview
+
+This project focuses on exploring and analyzing sales, customer, and product data using PostgreSQL. It aims to explore patterns, evaluate product performance, and generate meaningful business insights through SQL queries.
+
+The analysis follows a step-by-step Exploratory Data Analysis (EDA) workflow: first understand the structure of the database, then the dimensions and dates, then the key measures, and finally answer business questions on magnitude and ranking.
 
 ## About the Data
 

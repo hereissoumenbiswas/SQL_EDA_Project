@@ -18,7 +18,9 @@ The data sits in a `gold` schema with three tables:
 | `gold.products` | One row per product | `product_key`, `product_id`, `product_number`, `product_name`, `category_id`, `category`, `subcategory`, `maintenance`,  `cost`, `product_line`, `start_date` |
 | `gold.sales` | One row per order line | `order_number`, `product_key`, `customer_key`, `order_date`, `shipping_date`, `due_date`, `sales_amount`, `quantity`, `price` |
 
-How they connect:
+### How the tables connect
 
-- `gold.sales.customer_key` → `gold.customers.customer_key`
-- `gold.sales.product_key` → `gold.products.product_key`
+- `gold.sales.customer_key` links to `gold.customers.customer_key`
+- `gold.sales.product_key` links to `gold.products.product_key`
+
+In other words, `gold.sales` is the central table, and each order line points to one customer and one product.

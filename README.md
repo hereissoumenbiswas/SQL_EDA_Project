@@ -25,6 +25,8 @@ The data sits in a `gold` schema with three tables:
 
 In other words, `gold.sales` is the central table, and each order line points to one customer and one product.
 
+## What I Did: Analysis Workflow
+
 ### 1. Database Exploration (Done)
 Got familiar with the database before running any analysis.
 - Explored the tables available in the `gold` schema

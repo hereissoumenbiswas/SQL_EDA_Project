@@ -24,3 +24,9 @@ The data sits in a `gold` schema with three tables:
 - `gold.sales.product_key` links to `gold.products.product_key`
 
 In other words, `gold.sales` is the central table, and each order line points to one customer and one product.
+
+### 1. Database Exploration (Done)
+Got familiar with the database before running any analysis.
+- Explored the tables available in the `gold` schema
+- Checked the columns and data types of `customers`, `products` and `sales`
+

@@ -32,3 +32,8 @@ Got familiar with the database before running any analysis.
 - Explored the tables available in the `gold` schema
 - Checked the columns and data types of `customers`, `products` and `sales`
 
+### 2. Dimensions Exploration (Done)
+Looked at the descriptive columns used to slice and group the data.
+- Customer dimensions such as `country`, `gender` and `marital_status`
+- Product dimensions such as `category`, `subcategory` and `product_line`
+- Checked the distinct values in each dimension to understand how the data can be segmented

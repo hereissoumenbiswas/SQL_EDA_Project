@@ -60,3 +60,16 @@ Answered 10 questions on top and bottom performers.
 
 ### 7. Change Over Time Analysis (In progress)
 10 questions that look at how sales and customers change across months and years.
+
+## Key Insights
+
+## Business Snapshot
+| Metric | Value |
+|---|---|
+| Time span between first and last order | 3 years 30 days |
+| Total sales | 29,356,250 |
+| Total quantity sold | 60,423 |
+| Average selling price | 486.05 |
+| Total orders | 27,659 |
+| Total products | 295 |
+| Total customers | 18,484 |

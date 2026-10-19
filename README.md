@@ -42,3 +42,8 @@ Looked at the descriptive columns used to slice and group the data.
 Understood the time coverage of the data.
 - Worked with the date columns: `order_date`, `shipping_date`, `due_date`, `birthdate` and `create_date`
 - Identified the time span the data covers, which sets the boundaries for later trend analysis
+
+### 4. Measures Exploration (Done)
+Calculated the key numbers that describe the business.
+- Worked with the numeric columns `sales_amount`, `quantity`, `price` and `cost`
+- Built key totals and averages that summarize overall sales performance

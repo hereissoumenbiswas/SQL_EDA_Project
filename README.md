@@ -47,3 +47,8 @@ Understood the time coverage of the data.
 Calculated the key numbers that describe the business.
 - Worked with the numeric columns `sales_amount`, `quantity`, `price` and `cost`
 - Built key totals and averages that summarize overall sales performance
+
+### 5. Magnitude Analysis (Done)
+Answered 20 questions that compare measures across dimensions.
+- Combined the three tables through the key relationships to compare measures across customer and product dimensions
+- Showed where the business volume sits, for example across countries, categories and customer groups

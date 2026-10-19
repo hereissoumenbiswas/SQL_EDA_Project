@@ -37,3 +37,8 @@ Looked at the descriptive columns used to slice and group the data.
 - Customer dimensions such as `country`, `gender` and `marital_status`
 - Product dimensions such as `category`, `subcategory` and `product_line`
 - Checked the distinct values in each dimension to understand how the data can be segmented
+
+### 3. Date Exploration (Done)
+Understood the time coverage of the data.
+- Worked with the date columns: `order_date`, `shipping_date`, `due_date`, `birthdate` and `create_date`
+- Identified the time span the data covers, which sets the boundaries for later trend analysis

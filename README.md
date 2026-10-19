@@ -53,7 +53,7 @@ Answered 20 questions that compare measures across dimensions.
 - Combined the three tables through the key relationships to compare measures across customer and product dimensions
 - Showed where the business volume sits, for example across countries, categories and customer groups
 
-  ### 6. Ranking Analysis (Done)
+### 6. Ranking Analysis (Done)
 Answered 10 questions on top and bottom performers.
 - Ranked products, categories and customers by measures to find the best and worst performers
 - Supports decisions on which products and segments deserve more attention

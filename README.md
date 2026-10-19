@@ -58,3 +58,5 @@ Answered 10 questions on top and bottom performers.
 - Ranked products, categories and customers by measures to find the best and worst performers
 - Supports decisions on which products and segments deserve more attention
 
+### 7. Change Over Time Analysis (In progress)
+10 questions that look at how sales and customers change across months and years.

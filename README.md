@@ -133,3 +133,19 @@ Answered 10 questions on top and bottom performers.
 - The three bike subcategories together generate about 96.5% of total sales.
 - The top 10 products come from just two models: Mountain-200 (six variants) and Road-150 Red (four variants).
 - The weakest products are low-priced accessories and clothing items.
+
+## Sales and Orders Over Time
+
+| Year | Total Sales | Orders |
+|---|---|---|
+| 2010 | 43,419 | 14 |
+| 2011 | 7,075,088 | 2,216 |
+| 2012 | 5,842,231 | 3,269 |
+| 2013 | 16,344,878 | 21,287 |
+| 2014 | 45,642 | 871 |
+
+- 2013 is the strongest year, with about 55.7% of all sales and about 77% of all orders.
+- From 2012 to 2013, sales grew about 180% while orders grew about 6.5 times.
+- 2012 sales were about 17.4% lower than 2011.
+- 2010 and 2014 are partial years: all 2010 sales fall in December and all 2014 sales fall in January. Comparisons involving these years are misleading.
+- A small amount of sales (4,992) has no order date, so it is not counted in any year.

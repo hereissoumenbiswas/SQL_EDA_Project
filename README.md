@@ -106,3 +106,30 @@ Answered 10 questions on top and bottom performers.
 | Caps | 19,710 |
 | Gloves | 34,320 |
 | Vests | 36,160 |
+
+| Product Line | Total Sales |
+|---|---|
+| Road | 14,622,850 |
+| Mountain | 10,250,982 |
+| Touring | 3,879,135 |
+| Other Sales | 603,283 |
+
+| Top 5 Products | Total Sales |
+|---|---|
+| Mountain-200 Black- 46 | 1,373,454 |
+| Mountain-200 Black- 42 | 1,363,128 |
+| Mountain-200 Silver- 38 | 1,339,394 |
+| Mountain-200 Silver- 46 | 1,301,029 |
+| Mountain-200 Black- 38 | 1,294,854 |
+
+| Worst 5 Products | Total Sales |
+|---|---|
+| Racing Socks- L | 2,430 |
+| Racing Socks- M | 2,682 |
+| Patch Kit/8 Patches | 6,382 |
+| Bike Wash - Dissolver | 7,272 |
+| Touring Tire Tube | 7,440 |
+
+- The three bike subcategories together generate about 96.5% of total sales.
+- The top 10 products come from just two models: Mountain-200 (six variants) and Road-150 Red (four variants).
+- The weakest products are low-priced accessories and clothing items.

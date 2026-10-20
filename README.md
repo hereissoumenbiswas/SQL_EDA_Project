@@ -187,3 +187,11 @@ Answered 10 questions on top and bottom performers.
 - 337 customers have `n/a` as country, and 15 have `n/a` as gender.
 - 7 products have no category, and some products have no product line.
 - Sales totals tie out to 29,356,250 across the year, category, product line and gender breakdowns.
+
+## Author
+
+**Soumen Biswas**
+Data Science graduate
+
+- GitHub: (https://github.com/hereissoumenbiswas)
+- LinkedIn: (https://www.linkedin.com/in/hereissoumenbiswas/?isSelfProfile=true)

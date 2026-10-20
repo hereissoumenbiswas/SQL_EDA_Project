@@ -82,3 +82,9 @@ Answered 10 questions on top and bottom performers.
 | Accessories | 29 | 36,112 | 700,262 |
 | Clothing | 35 | 9,106 | 339,716 |
 | Components | 127 | No sales recorded | No sales recorded |
+
+- Bikes generate about 96.5% of total revenue, even though they account for only about 25.2% of units sold.
+- Accessories sell the most units (about 59.8% of all units) but bring in only about 2.4% of revenue.
+- The Components category is the largest by product count, but no sales were recorded for it.
+- 7 products have no category.
+- The average product cost is 949.44 for Bikes and 264.72 for Components, compared with 24.80 for Clothing and 13.17 for Accessories.

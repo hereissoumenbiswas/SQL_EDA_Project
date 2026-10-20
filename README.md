@@ -73,3 +73,12 @@ Answered 10 questions on top and bottom performers.
 | Total orders | 27,659 |
 | Total products | 295 |
 | Total customers | 18,484 |
+
+## Products and Categories
+
+| Category | Products | Units Sold | Total Sales |
+|---|---|---|---|
+| Bikes | 97 | 15,205 | 28,316,272 |
+| Accessories | 29 | 36,112 | 700,262 |
+| Clothing | 35 | 9,106 | 339,716 |
+| Components | 127 | No sales recorded | No sales recorded |

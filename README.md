@@ -181,3 +181,9 @@ Answered 10 questions on top and bottom performers.
 
 - The United States and Australia lead both in customers and in units sold.
 - The top three countries by units sold (United States, Australia, Canada) make up about 68.6% of all units.
+
+## Data Quality Notes
+
+- 337 customers have `n/a` as country, and 15 have `n/a` as gender.
+- 7 products have no category, and some products have no product line.
+- Sales totals tie out to 29,356,250 across the year, category, product line and gender breakdowns.

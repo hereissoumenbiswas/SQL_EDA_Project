@@ -149,3 +149,20 @@ Answered 10 questions on top and bottom performers.
 - 2012 sales were about 17.4% lower than 2011.
 - 2010 and 2014 are partial years: all 2010 sales fall in December and all 2014 sales fall in January. Comparisons involving these years are misleading.
 - A small amount of sales (4,992) has no order date, so it is not counted in any year.
+
+## Customers
+
+| Country | Customers |
+|---|---|
+| United States | 7,482 |
+| Australia | 3,591 |
+| United Kingdom | 1,913 |
+| France | 1,810 |
+| Germany | 1,780 |
+| Canada | 1,571 |
+| n/a | 337 |
+
+- The United States has about 40.5% of all customers.
+- Gender is almost evenly split: 9,341 male and 9,128 female customers (15 marked n/a).
+- Female customers generated slightly more sales (14,804,168) than male customers (14,522,393).
+- The top customers are very close in value. The highest total is 13,294, shared by customer IDs 12132 and 12301, followed by 12308 (13,268), 12131 (13,265) and 12300 (13,242).

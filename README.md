@@ -191,7 +191,7 @@ Answered 10 questions on top and bottom performers.
 ## Author
 
 **Soumen Biswas**
-Data Science graduate
+(Data Science graduate)
 
 - GitHub: (https://github.com/hereissoumenbiswas)
 - LinkedIn: (https://www.linkedin.com/in/hereissoumenbiswas/?isSelfProfile=true)

@@ -88,3 +88,21 @@ Answered 10 questions on top and bottom performers.
 - The Components category is the largest by product count, but no sales were recorded for it.
 - 7 products have no category.
 - The average product cost is 949.44 for Bikes and 264.72 for Components, compared with 24.80 for Clothing and 13.17 for Accessories.
+
+## Subcategories, Product Lines and Products
+
+| Top 5 Subcategories | Total Sales |
+|---|---|
+| Road Bikes | 14,519,438 |
+| Mountain Bikes | 9,952,254 |
+| Touring Bikes | 3,844,580 |
+| Tires and Tubes | 244,634 |
+| Helmets | 225,435 |
+
+| Worst 5 Subcategories | Total Sales |
+|---|---|
+| Socks | 5,112 |
+| Cleaners | 7,272 |
+| Caps | 19,710 |
+| Gloves | 34,320 |
+| Vests | 36,160 |

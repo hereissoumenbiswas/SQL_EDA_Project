@@ -166,3 +166,18 @@ Answered 10 questions on top and bottom performers.
 - Gender is almost evenly split: 9,341 male and 9,128 female customers (15 marked n/a).
 - Female customers generated slightly more sales (14,804,168) than male customers (14,522,393).
 - The top customers are very close in value. The highest total is 13,294, shared by customer IDs 12132 and 12301, followed by 12308 (13,268), 12131 (13,265) and 12300 (13,242).
+
+## Geography
+
+| Country | Units Sold | Share of Units |
+|---|---|---|
+| United States | 20,481 | 33.90% |
+| Australia | 13,346 | 22.09% |
+| Canada | 7,630 | 12.63% |
+| United Kingdom | 6,910 | 11.44% |
+| Germany | 5,626 | 9.31% |
+| France | 5,559 | 9.20% |
+| n/a | 871 | 1.44% |
+
+- The United States and Australia lead both in customers and in units sold.
+- The top three countries by units sold (United States, Australia, Canada) make up about 68.6% of all units.

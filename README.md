@@ -1,6 +1,4 @@
-# SQL EDA Project
-
-**Sales Analytics (PostgreSQL)**
+# Sales Data Exploratory Data Analysis (EDA) using PostgreSQL
 
 # Project Overview
 

@@ -2,7 +2,7 @@
 
 **Sales Analytics (PostgreSQL)**
 
-Project Overview
+# Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on sales, customer, and product data using PostgreSQL. The goal is to identify sales trends, understand customer behavior, evaluate product performance, and generate meaningful business insights through SQL queries.
 

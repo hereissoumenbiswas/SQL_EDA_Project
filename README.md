@@ -6,7 +6,7 @@ Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on sales, customer, and product data using PostgreSQL. The goal is to identify sales trends, understand customer behavior, evaluate product performance, and generate meaningful business insights through SQL queries.
 
-The analysis follows a step-by-step Exploratory Data Analysis (EDA) workflow: first understand the structure of the database, then the dimensions and dates, then the key measures, and finally answer business questions on magnitude and ranking.
+The analysis follows a structured, step-by-step EDA workflow, starting with understanding the database structure and data dimensions, followed by analyzing date ranges and key business metrics. Finally, SQL queries are used to answer business questions related to sales performance, product rankings, and overall business trends.
 
 ## About the Data
 
